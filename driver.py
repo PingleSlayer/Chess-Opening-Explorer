@@ -19,4 +19,4 @@ def opening_explorer(filename, width, height):
 """opening_tree = OpeningTree()
 opening_tree.build_opening_tree(min_occurrences=5000, engine_time=1)
 opening_tree.save_opening_tree("Trees/masters_5000.pgn")"""
-opening_explorer("Trees/masters_10000.pgn", 1300, 800)
+opening_explorer("Trees/masters_10000.pgn", 1300, 700)
